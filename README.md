@@ -191,51 +191,68 @@
 <tr>
 <td align="center" width="20%">
 
-![Learning](https://img.shields.io/badge/🌱%20Learning-Advanced%20React-58A6FF?style=for-the-badge&labelColor=1a1a1a)
+🌱 **Learning**
+<br>
+**Advanced React**
 <br>
 **Next.js 14 Patterns**
 <br>
-![Progress](https://img.shields.io/badge/Progress-85%25-58A6FF?style=flat-square&logo=react&logoColor=white)
+`Progress: 85%`
 
 </td>
 <td align="center" width="20%">
 
-![Building](https://img.shields.io/badge/🔥%20Building-Scalable%20Apps-FF6B6B?style=for-the-badge&labelColor=1a1a1a)
+🔥 **Building**
+<br>
+**Scalable Apps**
 <br>
 **Full-Stack Projects**
 <br>
-![Progress](https://img.shields.io/badge/Progress-70%25-FF6B6B?style=flat-square&logo=nodejs&logoColor=white)
+`Progress: 70%`
 
 </td>
 <td align="center" width="20%">
 
-![Creating](https://img.shields.io/badge/🎨%20Creating-Pixel%20Perfect-00D4AA?style=for-the-badge&labelColor=1a1a1a)
+🎨 **Creating**
+<br>
+**Pixel Perfect**
 <br>
 **Responsive Designs**
 <br>
-![Progress](https://img.shields.io/badge/Progress-90%25-00D4AA?style=flat-square&logo=figma&logoColor=white)
+`Progress: 90%`
 
 </td>
 <td align="center" width="20%">
 
-![Contributing](https://img.shields.io/badge/📚%20Contributing-Open%20Source-FFA500?style=for-the-badge&labelColor=1a1a1a)
+📚 **Contributing**
+<br>
+**Open Source**
 <br>
 **Community Projects**
 <br>
-![Progress](https://img.shields.io/badge/Progress-60%25-FFA500?style=flat-square&logo=github&logoColor=white)
+`Progress: 60%`
 
 </td>
 <td align="center" width="20%">
 
-![Sharing](https://img.shields.io/badge/🚀%20Sharing-Tech%20Writing-9333EA?style=for-the-badge&labelColor=1a1a1a)
+🚀 **Sharing**
+<br>
+**Tech Writing**
 <br>
 **Knowledge Sharing**
 <br>
-![Progress](https://img.shields.io/badge/Progress-75%25-9333EA?style=flat-square&logo=medium&logoColor=white)
+`Progress: 75%`
 
 </td>
 </tr>
 </table>
+
+**Current Focus Areas:**
+- 🌱 Mastering Advanced React Patterns and Next.js 14
+- 🔥 Building scalable full-stack applications  
+- 🎨 Creating pixel-perfect responsive designs
+- 📚 Contributing to open-source projects
+- 🚀 Sharing knowledge through technical writing
 
 </div>
 
