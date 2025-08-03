@@ -117,51 +117,40 @@
 
 </div>
 
-## 🎮 Achievement System
-
+🎮 Achievement System
 <div align="center">
-
 <table>
 <tr>
 <td align="center" width="25%">
-
 <img src="https://img.shields.io/badge/🏆%20Code%20Master-Level%2095-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
 <br>
 **Problem Solving Expert**
 <br>
-<img src="https://progress-bar.dev/95/?scale=100&title=Progress&width=120&color=FF6B6B&suffix=%" />
-
+<img src="https://img.shields.io/badge/Progress-95%25-FF6B6B?style=flat-square&logo=target&logoColor=white" />
 </td>
 <td align="center" width="25%">
-
 <img src="https://img.shields.io/badge/🎨%20UI%20Wizard-Level%2080-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
 <br>
 **Design System Architect**
 <br>
-<img src="https://progress-bar.dev/80/?scale=100&title=Progress&width=120&color=00D4AA&suffix=%" />
-
+<img src="https://img.shields.io/badge/Progress-80%25-00D4AA?style=flat-square&logo=target&logoColor=white" />
 </td>
 <td align="center" width="25%">
-
 <img src="https://img.shields.io/badge/⚡%20Full--Stack-Level%2085-58A6FF?style=for-the-badge&labelColor=1a1a1a" />
 <br>
 **MERN Stack Developer**
 <br>
-<img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=120&color=58A6FF&suffix=%" />
-
+<img src="https://img.shields.io/badge/Progress-85%25-58A6FF?style=flat-square&logo=target&logoColor=white" />
 </td>
 <td align="center" width="25%">
-
 <img src="https://img.shields.io/badge/🧑‍🏫%20Mentor-Level%20MAX-FFA500?style=for-the-badge&labelColor=1a1a1a" />
 <br>
 **Knowledge Sharing Pro**
 <br>
-<img src="https://progress-bar.dev/100/?scale=100&title=Progress&width=120&color=FFA500&suffix=%" />
-
+<img src="https://img.shields.io/badge/Progress-100%25-FFA500?style=flat-square&logo=target&logoColor=white" />
 </td>
 </tr>
 </table>
-
 </div>
 
 ## 🏆 GitHub Trophies
