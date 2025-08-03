@@ -185,53 +185,53 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:58A6FF,100:00D4AA&height=60&section=header&text=2025%20Development%20Roadmap&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+**🚀 2025 Development Roadmap**
 
 <table>
 <tr>
 <td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/🌱%20Learning-Advanced%20React-58A6FF?style=for-the-badge&labelColor=1a1a1a" />
+![Learning](https://img.shields.io/badge/🌱%20Learning-Advanced%20React-58A6FF?style=for-the-badge&labelColor=1a1a1a)
 <br>
 **Next.js 14 Patterns**
 <br>
-<img src="https://progress-bar.dev/85/?scale=100&title=Progress&width=100&color=58A6FF&suffix=%" />
+![Progress](https://img.shields.io/badge/Progress-85%25-58A6FF?style=flat-square&logo=react&logoColor=white)
 
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/🔥%20Building-Scalable%20Apps-FF6B6B?style=for-the-badge&labelColor=1a1a1a" />
+![Building](https://img.shields.io/badge/🔥%20Building-Scalable%20Apps-FF6B6B?style=for-the-badge&labelColor=1a1a1a)
 <br>
 **Full-Stack Projects**
 <br>
-<img src="https://progress-bar.dev/70/?scale=100&title=Progress&width=100&color=FF6B6B&suffix=%" />
+![Progress](https://img.shields.io/badge/Progress-70%25-FF6B6B?style=flat-square&logo=nodejs&logoColor=white)
 
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/🎨%20Creating-Pixel%20Perfect-00D4AA?style=for-the-badge&labelColor=1a1a1a" />
+![Creating](https://img.shields.io/badge/🎨%20Creating-Pixel%20Perfect-00D4AA?style=for-the-badge&labelColor=1a1a1a)
 <br>
 **Responsive Designs**
 <br>
-<img src="https://progress-bar.dev/90/?scale=100&title=Progress&width=100&color=00D4AA&suffix=%" />
+![Progress](https://img.shields.io/badge/Progress-90%25-00D4AA?style=flat-square&logo=figma&logoColor=white)
 
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/📚%20Contributing-Open%20Source-FFA500?style=for-the-badge&labelColor=1a1a1a" />
+![Contributing](https://img.shields.io/badge/📚%20Contributing-Open%20Source-FFA500?style=for-the-badge&labelColor=1a1a1a)
 <br>
 **Community Projects**
 <br>
-<img src="https://progress-bar.dev/60/?scale=100&title=Progress&width=100&color=FFA500&suffix=%" />
+![Progress](https://img.shields.io/badge/Progress-60%25-FFA500?style=flat-square&logo=github&logoColor=white)
 
 </td>
 <td align="center" width="20%">
 
-<img src="https://img.shields.io/badge/🚀%20Sharing-Tech%20Writing-9333EA?style=for-the-badge&labelColor=1a1a1a" />
+![Sharing](https://img.shields.io/badge/🚀%20Sharing-Tech%20Writing-9333EA?style=for-the-badge&labelColor=1a1a1a)
 <br>
 **Knowledge Sharing**
 <br>
-<img src="https://progress-bar.dev/75/?scale=100&title=Progress&width=100&color=9333EA&suffix=%" />
+![Progress](https://img.shields.io/badge/Progress-75%25-9333EA?style=flat-square&logo=medium&logoColor=white)
 
 </td>
 </tr>
